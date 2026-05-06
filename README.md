@@ -1,76 +1,52 @@
-## 👋 Welcome to My GitHub Profile
+#👋 Hi, I'm Om
 
-**Full-Stack Developer | AI Enthusiast | Building the Future with AI** 🚀
+🚀 AI Website Builder | Java Learner
 
-Hey there! I'm **Omharde**, a passionate full-stack developer specializing in building AI-powered applications and web solutions. I'm dedicated to creating innovative technology that helps businesses and individuals grow.
-
----
-
-## 💼 About Me
-
-I'm a full-stack developer with a mission to democratize technology through **AI-integrated solutions**. Currently, I'm building web applications and AI tools that empower businesses and individuals. With a focus on practical AI implementation and clean code, I'm creating solutions that matter.
-
-- 🤖 **Specialization:** Full-stack AI application development
-- 🌐 **Focus:** Web development with AI integration
-- 📈 **Vision:** Making AI accessible to everyone
-- 🎯 **Goal:** Launching Jarvis AI Assistant (coming 2028)
+I build real-world web apps and automation systems with a focus on AI + Web Development.
+Currently working on scalable digital products and improving backend + system design skills.
 
 ---
 
-## 🛠️ Technical Skills
+🌐 My Work
 
-### Languages
-- **Python** - Primary language for AI/ML development
-- **HTML & CSS** - Frontend markup and styling
-- **Java** - Basics for backend development
-
-### Currently Learning & Mastering
-- Advanced AI/ML frameworks
-- Full-stack web application architecture
-- AI integration best practices
+- 🔗 Business Website: https://b2csolutionseller.lovable.app
 
 ---
 
-## 💡 Current Projects & Business
+💻 What I Build
 
-### 🎨 **B2C Solutions Seller** - My Main Business
-**Building Websites with AI for Everyone**
-
-My web-based business helps individuals and organizations create professional websites using an AI builder platform.
-
-- **Website:** [https://b2csolutionseller.lovable.app](https://b2csolutionseller.lovable.app)
-- **Description:** AI-powered website builder for non-technical users
-- **Tech Stack:** Modern web technologies with AI integration
-- **Mission:** Simplifying web development through artificial intelligence
-
-**Key Features:**
-- 🤖 AI-assisted website creation
-- 🎯 User-friendly interface
-- ⚡ Fast deployment
-- 💼 Business-ready templates
+- AI-powered tools 🤖
+- Web applications 🌐
+- Automation systems ⚙️
 
 ---
 
-## 🚀 Upcoming Projects
+🧠 Currently Learning
 
-### **Jarvis AI Assistant** *(Launching 2028)*
-An intelligent AI assistant designed to help users with various tasks and information needs.
-
-**Current Status:** 📋 Planning & Development Phase
-- Building foundational architecture
-- Researching advanced AI models
-- Designing user experience
+- Java (Core + OOP)
+- Backend Development
+- System Design Basics
 
 ---
 
-## 📊 GitHub Activity
+🚀 Projects
 
-I'm actively working on projects and contributing to open-source. Check out my repositories for:
-- 🔧 AI application demos
-- 💻 Full-stack projects
-- 📚 Learning implementations
+- 📌 Student Discipline Tracking System
+- 📌 Real Estate Web Platform
+- 📌 AI Tools (in progress)
 
-View my GitHub repos to see daily contributions and project progress!
+---
+
+🛠 Tech Stack
+
+- HTML, CSS, JavaScript
+- Supabase
+- Java (Beginner Level)
+
+
+🎯 Goal
+
+Become a Full Stack + AI Developer and build impactful digital products.
 
 ---
 
@@ -124,5 +100,5 @@ Have questions about AI, web development, or my projects? Feel free to reach out
 
 **"The future is AI-powered, and I'm here to help you build it."** ✨
 
-*Last updated: 2026-05-05*
-*Follow my journey: [@itzomharde_6](https://www.instagram.com/itzomharde_6/) 🚀*
+*Last updated: 2026-05-06*
+
