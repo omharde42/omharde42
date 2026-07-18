@@ -1,13 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Om Nitin Harde
+# Om Nitin Harde
 
-### Founder & CEO of B2CSolution • AI Engineer • Flutter & FastAPI Developer • Building the Future with AI
+### AI Engineer • Full-Stack Developer • Founder @ B2CSolution
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+of+B2CSolution;AI+Engineer;Flutter+%26+FastAPI+Developer;Building+JARVIS+AI;Building+GAMERHUB;Building+VCoreDB;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" />
+Building scalable AI systems, cloud infrastructure, and modern software products.
 
-![Profile Views](https://komarev.com/ghpvc/?username=omharde42&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/omharde42?label=Followers&style=social)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Founder+of+B2CSolution;AI+Engineer;Flutter+%26+FastAPI+Developer;Building+JARVIS+AI;Building+GAMERHUB;Building+VCoreDB)](https://git.io/typing-svg)
+
+<p align="center">
+
+<a href="https://github.com/omharde42">
+<img src="https://komarev.com/ghpvc/?username=omharde42&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/omharde42?tab=followers">
+<img src="https://img.shields.io/github/followers/omharde42?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/omharde42">
+<img src="https://img.shields.io/github/stars/omharde42?style=for-the-badge" />
+</a>
+
+</p>
 
 </div>
 
@@ -15,158 +30,180 @@
 
 # 🚀 About Me
 
-- 🏢 Founder & CEO of **B2CSolution Tech Company**
-- 🤖 Building **JARVIS AI**
+- 🏢 Founder & CEO of **B2CSolution**
+- 🤖 Creator of **JARVIS AI**
 - 🎮 Building **GAMERHUB**
-- 🗄 Developing **VCoreDB**
-- 🎓 Class 12 HSC Student (Information Technology)
+- 🗄️ Developing **VCoreDB**
+- 🎓 Class 12 HSC Student
 - 🥋 2nd Dan Black Belt in Karate
-- 💻 Passionate about AI, Backend Systems, Flutter & Cloud Technologies
-- 🌱 Learning System Design, DevOps, Cloud Computing & Artificial Intelligence
+- 💻 Passionate about AI, Backend Systems, Flutter, and Cloud Computing
 
 ---
 
-# 🏢 B2CSolution
+# 🔥 Current Focus
 
-**Founded:** May 2025
+```yaml
+Company: B2CSolution
 
-Building innovative software products powered by Artificial Intelligence, Cloud Computing and Modern Software Engineering.
+Currently Building:
+  - JARVIS AI
+  - GAMERHUB
+  - VCoreDB
 
-### Main Products
+Learning:
+  - System Design
+  - Kubernetes
+  - DevOps
+  - Cloud Infrastructure
+  - Artificial Intelligence
 
-- 🤖 JARVIS AI
-- 🎮 GAMERHUB
-- 🗄 VCoreDB
-- 📊 Financial Solutions
-- 🌐 Custom Web Applications
+Goals for 2026:
+  - Launch JARVIS AI
+  - Release GAMERHUB
+  - Scale VCoreDB
+  - Build Global Software Products
+```
 
 ---
 
-# 💼 Current Projects
+# 🏢 B2CSolution Ecosystem
 
 ## 🤖 JARVIS AI
 
-An intelligent AI assistant capable of helping users with:
-
 - AI Chat
-- Coding
-- Business
-- Productivity
 - Automation
-- Learning
-- Research
-
----
+- Coding Assistant
+- Business Assistant
+- Research Tools
 
 ## 🎮 GAMERHUB
 
-The complete Gaming Social Platform featuring
-
 - Tournament System
 - Matchmaking
-- AI Coaching
 - Communities
-- Recruitment
-- Marketplace
 - Live Streaming
-- Gaming Resume
-- Analytics
+- Marketplace
+- AI Coaching
+
+## 🗄️ VCoreDB
+
+- Backend Infrastructure
+- Authentication
+- Cloud Storage
+- API Services
+- Enterprise Scalability
 
 ---
 
-## 🗄 VCoreDB
+# 🏗️ System Architecture
 
-A modern backend infrastructure designed for scalable APIs, secure authentication, cloud storage and enterprise applications.
+```mermaid
+graph TD
+
+A[Flutter App] --> B[FastAPI Backend]
+
+B --> C[Supabase]
+
+B --> D[Gemini API]
+
+C --> E[PostgreSQL]
+
+B --> F[Cloud Storage]
+
+B --> G[Analytics]
+```
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 
 ---
 
-### Frontend
+## Frontend
 
-Flutter • React • Next.js • HTML • CSS • Tailwind CSS
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-### Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-FastAPI • Node.js • Express.js
-
----
-
-### Database
-
-PostgreSQL • Supabase • Firebase
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-### DevOps
+## Backend
 
-Docker • GitHub Actions • Railway • Vercel • Git
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ---
 
-### AI
+## Database
 
-Google Gemini API
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-Prompt Engineering
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-AI Automation
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+---
+
+## DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
 # 📊 GitHub Statistics
 
-> *(These cards update automatically.)*
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omharde42&show_icons=true&theme=chartreuse-dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omharde42&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omharde42&theme=chartreuse-dark)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omharde42&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omharde42&layout=compact&theme=chartreuse-dark)
+</p>
 
----
+<p align="center">
 
-# 🏆 GitHub Trophies
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omharde42&layout=compact&theme=tokyonight"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omharde42&theme=matrix&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omharde42&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omharde42&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🚀 2026 Goals
+# 🏆 Achievements
 
-- ✅ Launch JARVIS AI
-- 🚧 Release GAMERHUB
-- 🚧 Build VCoreDB
-- 🚀 Grow B2CSolution
-- 🌍 Build Global Software Products
-- 📚 Contribute More to Open Source
-
----
-
-# 🏅 Achievements
-
-- 🥋 Karate 2nd Dan Black Belt
+- 🥋 2nd Dan Black Belt
 - 🤖 AI Developer
 - 💻 Open Source Contributor
-- 🎓 Student Developer
 - 🚀 Founder of B2CSolution
+- 🎓 Student Developer
 
 ---
 
@@ -175,7 +212,7 @@ AI Automation
 - 🎮 Gamer
 - 🤖 AI Enthusiast
 - 🚀 Entrepreneur
-- ☁ Loves Cloud Computing
+- ☁️ Cloud Computing Enthusiast
 - 📱 Loves Building Apps
 
 ---
@@ -188,15 +225,15 @@ https://github.com/omharde42
 
 ### LinkedIn
 
-www.linkedin.com/in/om-harde-74644140b
+https://www.linkedin.com/in/om-harde-74644140b
 
 ### Instagram
 
-Personal
+Personal:
 
 @itzomharde_6
 
-Business
+Business:
 
 @techdesigner_30
 
@@ -208,7 +245,7 @@ b2csolution2436@gmail.com
 
 # 💬 Quote
 
-> **"Great products are not built overnight—they are built through thousands of small improvements, relentless curiosity, and the courage to keep shipping."**
+> "Great products are not built overnight—they are built through thousands of small improvements, relentless curiosity, and the courage to keep shipping."
 
 — **Om Nitin Harde**
 
@@ -218,12 +255,10 @@ b2csolution2436@gmail.com
 
 ## 🚀 B2CSolution
 
-### Innovate • Build • Scale
+Innovate • Build • Scale
 
-**Founder & CEO — Om Nitin Harde**
+Building JARVIS AI • GAMERHUB • VCoreDB
 
-**Building JARVIS AI • GAMERHUB • VCoreDB**
-
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
 </div>
