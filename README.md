@@ -2,11 +2,11 @@
 
 # 🚀Om Nitin Harde🚀
 
-### AI Engineer • Full-Stack Developer • Founder @ B2CSolution
+### AI Learner • Full-Stack Developer • Founder @ B2CSolution. 
 
 Building scalable AI systems, cloud infrastructure, and modern software products.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Founder+of+B2CSolution;AI+Engineer;Flutter+%26+FastAPI+Developer;Building+JARVIS+AI;Building+GAMERHUB;Building+VCoreDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Founder+of+B2CSolution;AI+Learner;Full-Stack+Developer;Building+JARVIS+AI;Building+GAMERHUB;Building+VCoreDB;Making+AI+Content+Creator)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -32,6 +32,7 @@ Building scalable AI systems, cloud infrastructure, and modern software products
 
 - 🏢 Founder & CEO of **B2CSolution**
 - 🤖 Creator of **JARVIS AI**
+- 🎬 Building **AI Content Creator**
 - 🎮 Building **GAMERHUB**
 - 🗄️ Developing **VCoreDB**
 - 🎓 Class 12 HSC Student
@@ -49,19 +50,21 @@ Currently Building:
   - JARVIS AI
   - GAMERHUB
   - VCoreDB
+  - AI Content Creator
 
 Learning:
   - System Design
-  - Kubernetes
+  - Website Building Using AI 
   - DevOps
   - Cloud Infrastructure
   - Artificial Intelligence
 
-Goals for 2026:
+Goals for 2027:
   - Launch JARVIS AI
   - Release GAMERHUB
   - Scale VCoreDB
   - Build Global Software Products
+  - Building Proper AI Content Creator Website 
 ```
 
 ---
@@ -75,6 +78,14 @@ Goals for 2026:
 - Coding Assistant
 - Business Assistant
 - Research Tools
+
+ ## 🎬 AI Content Creator
+
+- AI-Powered Content Generation
+- Automated Content Workflows
+- Script Generation
+- Social Media Content
+- AI-Assisted Publishing
 
 ## 🎮 GAMERHUB
 
@@ -231,33 +242,42 @@ https://www.linkedin.com/in/om-harde-74644140b
 
 Personal:
 
-@itzomharde_6
+• https://www.instagram.com/itzomharde_6/
 
 Business:
 
-@techdesigner_30
+• https://www.instagram.com/b2csolutiontech_24/
 
 ### Email
 
 b2csolution2436@gmail.com
 
+### Organisation GitHub link 
+
+https://github.com/B2CSOLUTION-TECH-COMPANY
+
+### Business link 
+
+https://b2csolutionseller.lovable.app
+
+
 ---
 
 # 💬 Quote
 
-> "Great products are not built overnight—they are built through thousands of small improvements, relentless curiosity, and the courage to keep shipping."
+> “I don’t wait for the future to happen — I build the systems that create it.”
 
-— **Om Nitin Harde**
+— ```Om Nitin Harde``` 
 
 ---
 
 <div align="center">
 
-## 🚀 B2CSolution
+## 🚀 B2CSolution Tech Company 
 
 Innovate • Build • Scale
 
-Building JARVIS AI • GAMERHUB • VCoreDB
+Building JARVIS AI • GAMERHUB • VCoreDB • AI Content Creator
 
 ⭐ Thanks for visiting my profile!
 
