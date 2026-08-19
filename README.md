@@ -261,8 +261,7 @@ https://github.com/B2CSOLUTION-TECH-COMPANY
 https://b2csolutionseller.lovable.app
 
 ### Funding link [Support] 
-github: omharde42
-custom: "upi://pay?pa=omharde300@oksbi&pn=Om%20Harde&cu=INR"
+custom:      upi://pay?pa=omharde300@oksbi&pn=Om%20Harde&cu=INR
 
 
 ---
