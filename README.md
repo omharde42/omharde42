@@ -260,9 +260,6 @@ https://github.com/B2CSOLUTION-TECH-COMPANY
 
 https://b2csolutionseller.lovable.app
 
-### Funding link [Support] 
-<iframe src="https://github.com/sponsors/omharde42/button" title="Sponsor omharde42" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 
 ---
 
