@@ -282,3 +282,7 @@ Building JARVIS AI • GAMERHUB • VCoreDB • AI Content Creator
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
