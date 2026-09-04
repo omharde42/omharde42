@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=Header"/>
+</p>
+
 <div align="center">
 
 # 🚀Om Nitin Harde🚀
@@ -200,11 +204,20 @@ B --> G[Analytics]
 
 </p>
 
+<p align="center">
+  
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=omharde42&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+</p>
+
 ---
 
 # 📈 Contribution Graph
 
+
 [![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omharde42&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
 
