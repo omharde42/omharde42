@@ -10,7 +10,7 @@
 
 Building scalable AI systems, cloud infrastructure, and modern software products.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Founder+of+B2CSolution;AI+Learner;Full-Stack+Developer;Building+JARVIS+AI;Building+GAMERHUB;Building+VCoreDB;Making+AI+Content+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Founder+of+B2CSolution;AI+Learner;AI+Developer;Building+JARVIS+AI;Co-Founder+GAMERZHUB;Building+VCoreDB;Making+AI+Content+Creator)](https://git.io/typing-svg)
 
 <p align="center">
 
