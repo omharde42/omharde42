@@ -204,15 +204,6 @@ B --> G[Analytics]
 
 ---
 
-# 📈 Contribution Graph
-
-
-[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omharde42&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
----
-
 # 🏆 Achievements
 
 - 🥋 2nd Dan Black Belt
